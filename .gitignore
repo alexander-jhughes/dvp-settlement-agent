@@ -1,0 +1,27 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.csv
+
+# Foundry & Solidity
+contracts/out/
+contracts/cache/
+contracts/lib/forge-std/cache/
+broadcast/
+
+# Environment & Local Secrets
+.env
+*.pem
+
+# Cached Treasury & Simulation Datasets
+ofac_sdn.csv
+ofac_alt.csv
+*.csv
+
+# Local System & IDE Artifacts
+.DS_Store
+.idea/
+.vscode/
+__pycache__/

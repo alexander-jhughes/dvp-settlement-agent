@@ -1,0 +1,16 @@
+langchain==0.3.30
+langchain-core==0.3.86
+langchain-openai==0.3.35
+langchain-text-splitters==0.3.11
+langgraph==0.6.11
+langgraph-checkpoint==2.1.2
+langgraph-prebuilt==0.6.5
+langgraph-sdk==0.2.9
+pandas==2.3.3
+python-Levenshtein==0.27.1
+requests==2.32.5
+requests-toolbelt==1.0.0
+thefuzz==0.22.1
+types-requests==2.32.4.20260107
+web3==7.16.0
+yfinance==1.2.0
